@@ -47,27 +47,29 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+<table>
+  <tr>
+    <td>Calories</td>
+    <td><span class="color">277 kcal</span></td>
+  </tr>
+  <tr>
+    <td>Carbs</td>
+    <td><span class="color">0g</span></td>
+  </tr>
+  <tr>
+    <td>Protein</td>
+    <td><span class="color">20g</span></td>
+  </tr>
+  <tr>
+    <td>Fat</td>
+    <td><span class="color">22g</span></td>
+  </tr>
+</table>
 ```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -75,7 +77,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 - Group Related Styles: Group related styles together to improve readability and maintainability. 
 - Commenting: Add comments to explain 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
@@ -83,6 +84,8 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 - [HTML Semantic Cheatsheet](https://learntheweb.courses/topics/html-semantics-cheat-sheet/) - This is an amazing article which I constanly referred to while coding this site. 
 
 - [Styling Layout Wrappers in CSS](https://ishadeed.com/article/styling-wrappers-css/) - Another go-to bookmarked article that I constantly referred to while buidling this project. I'd HIGHLY recommend it to anyone still learning this concept.
+
+- [Responsive Test Tool](https://responsivetesttool.com/) - Extremely helpful when testing your project against a multitude of different screen sizes. 
 
 ## Author
 
