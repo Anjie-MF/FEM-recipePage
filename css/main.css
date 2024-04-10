@@ -101,7 +101,7 @@ body {
 
 /* Common styling for elements */
 .divider {
-    background: #814837;
+    background: hsl(14, 45%, 36%);
     height: 2px;
     width: 90%;
     margin: 10px;
@@ -157,7 +157,7 @@ figure {
     font-family: "Young Serif", serif;
     font-size: 1rem;
     margin-left: 15px;
-    color: #572339;
+    color: hsl(332, 51%, 32%);
 }
 
 li span.bold {
@@ -181,7 +181,7 @@ li {
 }
 
 li::marker {
-    color: #814837;
+    color: hsl(14, 45%, 36%)
     font-weight: bold;
 }
 
@@ -194,12 +194,12 @@ table {
 }
 
 td span.color {
-    color: #814837;
+    color: hsl(14, 45%, 36%);
     font-weight: bold;
 }
 
 td {
-    border-bottom: 1px solid #814837;
+    border-bottom: 1px solid hsl(14, 45%, 36%);
     padding: 20px;
     text-align: left
 }
