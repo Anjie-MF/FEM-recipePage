@@ -99,11 +99,34 @@ body {
     width: 100%;
 }
 
+/* Common styling for elements */
 .divider {
     background: #814837;
     height: 2px;
     width: 90%;
     margin: 10px;
+}
+
+h2 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    color: #814837;
+}
+
+p {
+    font-family: "Outfit", sans-serif;
+    font-size: 1rem;
+    color: #5A504E;
+    padding-bottom: 15px;
+}
+
+.recipe-wrapper,
+.prep-wrapper,
+.ingredients-wrapper,
+.instructions-wrapper,
+.nutrition-wrapper {
+    width: 90%;
+    margin: 0 auto;
 }
 
 /*-----Header Section-----*/
@@ -113,8 +136,6 @@ figure {
 
 /*-----Recipe Section-----*/
 .recipe-wrapper {
-    width: 90%;
-    margin: 0 auto;
     padding: 10px;
 }
 
@@ -125,17 +146,8 @@ figure {
     text-align: left;
 }
 
-.recipe-wrapper p {
-    font-family: "Outfit", sans-serif;
-    font-size: 1rem;
-    color: #5A504E;
-    padding-bottom: 15px;
-}
-
 /*-----Preparation Time Section-----*/
 .prep-wrapper {
-    width: 90%;
-    margin: 0 auto;
     padding: 10px;
     border-radius: 10px;
     background-color: #F3E7E6;
@@ -159,33 +171,11 @@ li {
 }
 
 /*-----Ingredients Section-----*/
-.ingredients-wrapper {
-    width: 90%;
-    margin: 0 auto;
-}
-
-.ingredients h2 {
-    font-family: "Young Serif", serif;
-    font-weight: 400;
-    color: #814837;
-}
-
 .ingredients-wrapper li {
     line-height: 30px;
 }
 
 /*-----Instructions Section-----*/
-.instructions-wrapper {
-    width: 90%;
-    margin: 0 auto;
-}
-
-.instructions-wrapper h2 {
-    font-family: "Young Serif", serif;
-    font-weight: 400;
-    color: #814837;
-}
-
 .instructions-wrapper li {
     padding-bottom: 10px;
 }
@@ -196,24 +186,6 @@ li::marker {
 }
 
 /*-----Nutrition Information Section-----*/
-.nutrition-wrapper {
-    width: 90%;
-    margin: 0 auto;
-}
-
-.nutrition-wrapper h2 {
-    font-family: "Young Serif", serif;
-    font-weight: 400;
-    color: #814837;
-}
-
-.nutrition-wrapper p {
-    font-family: "Outfit", sans-serif;
-    font-size: 1rem;
-    color: #5A504E;
-    padding-bottom: 15px;
-}
-
 table {
     font-family: "Outfit", sans-serif;
     font-size: 1rem;
@@ -240,29 +212,7 @@ td {
     text-decoration: none;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* ---------------------Desktop Styles-------------------------*/
 
 
 @media only screen and (min-width: 768px) {
