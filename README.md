@@ -24,8 +24,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Anjie-MF/FEM-recipePage)
+- Live Site URL: [Live]( https://anjie-mf.github.io/FEM-recipePage/)
 
 ## My process
 
