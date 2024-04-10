@@ -20,20 +20,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](assets/images/Screenshot%202024-04-10%2011.57.56%20AM.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://your-solution-url.com)
+- Live Site URL: [Live](https://your-live-site-url.com)
 
 ## My process
 
@@ -80,12 +72,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Useful resources
 
-- [HTML Tables](https://www.w3schools.com/html/html_tables.asp) - I didn't even know you could do this in HTML. I thought it was strictly CSS until I googled it 
-- [HTML Semantic Cheatsheet](https://learntheweb.courses/topics/html-semantics-cheat-sheet/) - This is an amazing article which I constanly referred to while coding this site. 
+- [HTML Tables](https://www.w3schools.com/html/html_tables.asp) - I didn't even know you could do this in HTML. I thought it was strictly CSS until I googled it.
+- [HTML Semantic Cheatsheet](https://learntheweb.courses/topics/html-semantics-cheat-sheet/) -This is an amazing article that I constantly referred to while coding this site.
 
-- [Styling Layout Wrappers in CSS](https://ishadeed.com/article/styling-wrappers-css/) - Another go-to bookmarked article that I constantly referred to while buidling this project. I'd HIGHLY recommend it to anyone still learning this concept.
+- [Styling Layout Wrappers in CSS](https://ishadeed.com/article/styling-wrappers-css/) - Another go-to, bookmarked article that I constantly referred to while building this project. I'd HIGHLY recommend it to anyone still learning this concept.
 
-- [Responsive Test Tool](https://responsivetesttool.com/) - Extremely helpful when testing your project against a multitude of different screen sizes. 
+- [Responsive Test Tool](https://responsivetesttool.com/) -  Extremely helpful when testing your project against a multitude of different screen sizes.
 
 ## Author
 
