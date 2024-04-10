@@ -91,3 +91,103 @@ textarea:not([rows]) {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+/* ---------------------Mobile Style-------------------------*/
+
+body {}
+
+main {}
+
+td span .color {}
+
+/*-----Header Section-----*/
+.img-container {}
+
+figure {}
+
+/*-----Recipe Section-----*/
+.recipe {}
+
+.recipe-wrapper {}
+
+.recipe-wrapper h1 {}
+
+.recipe-wrapper p {}
+
+/*-----Preparation Time Section-----*/
+.prep {}
+
+.prep-wrapper {}
+
+.prep-wrapper h4 {}
+
+li span.bold {}
+
+/*-----Ingredients Section-----*/
+.ingredients {}
+
+.ingredients-wrapper {}
+
+.ingredients h2 {}
+
+.ingredients-wrapper li {}
+
+/*-----Instructions Section-----*/
+.instructions {}
+
+.instructions-wrapper {}
+
+.instructions-wrapper h2 {}
+
+/*-----Nutrition Information Section-----*/
+.nutrition {}
+
+.nutrition-wrapper {}
+
+.nutrition-wrapper h2 {}
+
+td span.color {}
+
+/*-----Footer Section-----*/
+.attribution {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px) {
+
+    .attribution {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 1rem;
+        text-decoration: none;
+    }
+
+}
