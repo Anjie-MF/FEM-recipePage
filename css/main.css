@@ -100,7 +100,7 @@ body {
 }
 
 .divider {
-    background: #572339;
+    background: #814837;
     height: 2px;
     width: 90%;
     margin: 10px;
@@ -211,16 +211,25 @@ li::marker {
     font-family: "Outfit", sans-serif;
     font-size: 1rem;
     color: #5A504E;
+    padding-bottom: 15px;
 }
 
 table {
     font-family: "Outfit", sans-serif;
     font-size: 1rem;
+    color: #5A504E;
+    width: 100%;
 }
 
 td span.color {
     color: #814837;
     font-weight: bold;
+}
+
+td {
+    border-bottom: 1px solid #814837;
+    padding: 20px;
+    text-align: left
 }
 
 /*-----Footer Section-----*/
