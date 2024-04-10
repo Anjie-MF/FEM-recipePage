@@ -99,6 +99,13 @@ body {
     width: 100%;
 }
 
+.divider {
+    background: #572339;
+    height: 2px;
+    width: 90%;
+    margin: 10px;
+}
+
 /*-----Header Section-----*/
 figure {
     margin: 0;
@@ -108,6 +115,7 @@ figure {
 .recipe-wrapper {
     width: 90%;
     margin: 0 auto;
+    padding: 10px;
 }
 
 .recipe-wrapper h1 {
@@ -121,13 +129,15 @@ figure {
     font-family: "Outfit", sans-serif;
     font-size: 1rem;
     color: #5A504E;
+    padding-bottom: 15px;
 }
 
 /*-----Preparation Time Section-----*/
 .prep-wrapper {
     width: 90%;
     margin: 0 auto;
-    border: 3px red dotted;
+    padding: 10px;
+    border-radius: 10px;
     background-color: #F3E7E6;
 }
 
@@ -149,30 +159,41 @@ li {
 }
 
 /*-----Ingredients Section-----*/
-.ingredients {}
-
 .ingredients-wrapper {
     width: 90%;
     margin: 0 auto;
-    border: 3px red dotted;
 }
 
 .ingredients h2 {
-    color: #75554A;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    color: #814837;
 }
 
-.ingredients-wrapper li {}
+.ingredients-wrapper li {
+    line-height: 30px;
+}
 
 /*-----Instructions Section-----*/
-.instructions {}
-
 .instructions-wrapper {
     width: 90%;
     margin: 0 auto;
-    border: 3px red dotted;
 }
 
-.instructions-wrapper h2 {}
+.instructions-wrapper h2 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    color: #814837;
+}
+
+.instructions-wrapper li {
+    padding-bottom: 10px;
+}
+
+li::marker {
+    color:#814837;
+    font-weight: bold;
+}
 
 /*-----Nutrition Information Section-----*/
 .nutrition {}
