@@ -191,22 +191,37 @@ li {
 }
 
 li::marker {
-    color:#814837;
+    color: #814837;
     font-weight: bold;
 }
 
 /*-----Nutrition Information Section-----*/
-.nutrition {}
-
 .nutrition-wrapper {
     width: 90%;
     margin: 0 auto;
-    border: 3px red dotted;
 }
 
-.nutrition-wrapper h2 {}
+.nutrition-wrapper h2 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    color: #814837;
+}
 
-td span.color {}
+.nutrition-wrapper p {
+    font-family: "Outfit", sans-serif;
+    font-size: 1rem;
+    color: #5A504E;
+}
+
+table {
+    font-family: "Outfit", sans-serif;
+    font-size: 1rem;
+}
+
+td span.color {
+    color: #814837;
+    font-weight: bold;
+}
 
 /*-----Footer Section-----*/
 .attribution {
