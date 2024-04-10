@@ -78,7 +78,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [HTML Tables](https://www.w3schools.com/html/html_tables.asp) - I didn't even know you could do this in HTML. I thought it was strictly CSS until I googled it 
-- [HTML Semantic Cheatsheet](https://learntheweb.courses/topics/html-semantics-cheat-sheet/) - This is an amazing article which I constanly refered to while coding this site. I'd HIGHLY recommend it to anyone still learning this concept.
+- [HTML Semantic Cheatsheet](https://learntheweb.courses/topics/html-semantics-cheat-sheet/) - This is an amazing article which I constanly referred to while coding this site. 
+
+- [Styling Layout Wrappers in CSS](https://ishadeed.com/article/styling-wrappers-css/) - Another go-to bookmarked article that I constantly referred to while buidling this project. I'd HIGHLY recommend it to anyone still learning this concept.
 
 ## Author
 
